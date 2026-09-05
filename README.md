@@ -226,7 +226,7 @@ Crop_Recommendation_ML/
 │   ├── 01_EDA.ipynb
 │   └── 02_Model_Development.ipynb
 │
-└── result/
+└── results/
     └── [EDA and model evaluation results]
 ```
 
